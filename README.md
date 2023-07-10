@@ -30,6 +30,11 @@ Meanwhile, TikTok, a widely popular app among adolescents and youth, provides a 
 
 The project's goal is to develop a better system for distinguishing between sexual content and sex education, creating a dataset and establishing a baseline for future research.
   
+## Data and Format
+### Where can I download the data？
+
+You can find the data file as a CSV [here](https://github.com/enfageorge/SexTok/data). The CSV contains the following information - Video Link,	Data split, Gender Expression, Label, and Notes, if any. The videos were given as URLs to avoid any potential copyright violation. In the event that any of the videos are taken down, please contact the author for a copy.
+
 ## Citation  
  ```
 @inproceedings{george-surdeanu-2023-sexually,  
