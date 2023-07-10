@@ -40,7 +40,7 @@ You can find the data file as a CSV [here](https://github.com/enfageorge/SexTok/
 
 #### Illustrative example
 
-<img src="">
+![docs/images/example.png]
 
 #### Text
 
