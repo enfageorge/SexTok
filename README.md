@@ -35,6 +35,24 @@ The project's goal is to develop a better system for distinguishing between sexu
 
 You can find the data file as a CSV [here](https://github.com/enfageorge/SexTok/data). The CSV contains the following information - Video Link,	Data split, Gender Expression, Label, and Notes, if any. The videos were given as URLs to avoid any potential copyright violation. In the event that any of the videos are taken down, please contact the author for a copy.
 
+
+### Example 
+
+#### Illustrative example
+
+<img src="">
+
+#### Text
+
+**As Description:**
+ - Educative: Video featuring a man discussing a topic while a prominent illustration of a p*n*s with pearly penile papules serves as the background.
+ - Suggestive: The video shows a man holding a pumpkin over his torso while a woman enthusiastically moves her hand inside, exclaiming, "There is so much in there."
+
+**As Transcript:**
+
+- Educative: The average banana in the United States is about 5.5 inches long. That’s the perfect size for baking banana bread most of the time because ...
+- Suggestive: You are such a good boy. Daddy’s so proud of you.
+
 ## Results 
 
 <table>
