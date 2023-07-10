@@ -8,6 +8,14 @@ Enfa George, Mihai Surdeanu, ACL Findings 2023 [[bib]](#citation)
 [Computational Language Understanding Lab](https://clulab.org/), 
 University Of Arizona
 
+**Outline**
+
+  - [Paper](#paper)
+  - [Motivation](#motivation)
+  - [Data](#data)
+  - [Results](#results)
+  - [Citation](#citation)
+
 ## Paper   
   
 [Findings of the Association for Computational Linguistics: ACL 2023](https://aclanthology.org/2023.findings-acl.365/)
@@ -30,19 +38,17 @@ Meanwhile, TikTok, a widely popular app among adolescents and youth, provides a 
 
 The project's goal is to develop a better system for distinguishing between sexual content and sex education, creating a dataset and establishing a baseline for future research.
   
-## Data and Format
-### Where can I download the data？
+## Data 
 
 You can find the data file as a CSV [here](https://github.com/enfageorge/SexTok/data). The CSV contains the following information - Video Link,	Data split, Gender Expression, Label, and Notes, if any. The videos were given as URLs to avoid any potential copyright violation. In the event that any of the videos are taken down, please contact the author for a copy.
 
+## Example 
 
-### Example 
+### Illustrative example
 
-#### Illustrative example
+![Example](docs/images/example.png)
 
-![docs/images/example.png]
-
-#### Text
+### Text
 
 **As Description:**
  - Educative: Video featuring a man discussing a topic while a prominent illustration of a p*n*s with pearly penile papules serves as the background.
